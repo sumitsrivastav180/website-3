@@ -3,7 +3,7 @@ name: Cluster Operator
 glossary_id: cluster-operator
 index: 1
 advanced:
-  - label: "Connect to managed services using Service Catalog"
+  - label: "Connect to managed services using Service Catalogs"
     icon: fa-puzzle-piece
     url: "/docs/concepts/service-catalog/"
   - label: "Extend a Kubernetes cluster"
